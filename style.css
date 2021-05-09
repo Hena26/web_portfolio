@@ -42,8 +42,8 @@ h1.title{
 }
 
 .logo{
-    width: 10px;
-    height: 25px;
+    width: 200px;
+    height: 100px;
     display: flex;
     justify-content: center;
 }
