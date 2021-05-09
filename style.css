@@ -46,6 +46,7 @@ h1.title{
     height: 100px;
     display: flex;
     justify-content: center;
+    background-color: transparent;
 }
 
 .navbar .navbar_items ul{
