@@ -47,6 +47,8 @@ h1.title{
     display: flex;
     justify-content: center;
     background-color: transparent;
+    color: crimson;
+
 }
 
 .navbar .navbar_items ul{
