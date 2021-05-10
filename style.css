@@ -109,7 +109,7 @@ h1.title{
 .about p{
     padding: 0px 30px 20px;
     font-family: 'Josefin Sans', sans-serif;
-    color: crimson;
+    color: whitesmoke;
     font-size: 16px;
     font-weight: bold;
     justify-content: center;
@@ -141,13 +141,13 @@ h1.title{
 .work p{
     padding: 0px 30px 20px;
     font-family: 'Josefin Sans', sans-serif;
-    color: crimson;
+    color: whitesmoke;
     font-size: 16px;
     font-weight: bold;
     justify-content: center;
 }
-   
-.ourwork wrapper .work pics{
+
+.ourwork wrapper .work{
 display: flex;
 }
 
