@@ -145,7 +145,12 @@ h1.title{
     font-size: 16px;
     font-weight: bold;
     justify-content: center;
-
-.ourwork wrapper .work{
+}
+   
+.ourwork wrapper .work pics{
 display: flex;
+}
+
+.ourwork wrapper .work-1 work{
+    margin-bottom: 26px;
 }
