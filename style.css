@@ -114,6 +114,14 @@ h1.title{
     width: 20%;
 }
 
+.my_pic p{
+    padding: 0px 30px 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    color: ivory;
+    font-weight: bold;
+}
+
 .my_pic img{
     width: 100%;
     margin-bottom: 100px;
