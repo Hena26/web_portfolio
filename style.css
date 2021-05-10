@@ -103,8 +103,12 @@ h1.title{
 }
 
 .about p{
+    padding: 0px 30px 20px;
+    font-family: 'Josefin Sans', sans-serif;
     color: black;
+    font-size: 16px;
     font-weight: bold;
+    justify-self: right;
 }
 
 .my_pic{
@@ -112,14 +116,6 @@ h1.title{
     margin-top: 36px;
     justify-content: space-between;
     width: 20%;
-}
-
-.my_pic p{
-    padding: 0px 30px 20px;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 16px;
-    color: ivory;
-    font-weight: bold;
 }
 
 .my_pic img{
