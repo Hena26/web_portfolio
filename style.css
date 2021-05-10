@@ -144,8 +144,22 @@ h1.title{
 
 .ourwork wrapper .work{
 display: flex;
+justify-content: space-between;
 }
 
 .ourwork wrapper .work-1 work{
     margin-bottom: 26px;
+}
+
+.ourwork wrapper .work pics{
+    width: 30%;
+    height: auto;
+    cursor: pointer; 
+    overflow: hidden;
+}
+
+.ourwork wrapper .work pics img{
+    width: 100%;
+    display: block;
+    height: auto;
 }
