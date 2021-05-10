@@ -107,4 +107,14 @@ h1.title{
     font-weight: bold;
 }
 
-.img
+.my_pic{
+    display: flex;
+    margin-top: 36px;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.my_pic img{
+    width: 100%;
+    margin-bottom: 25px;
+}
