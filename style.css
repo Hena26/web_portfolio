@@ -138,7 +138,6 @@ h1.title{
     text-align: center;
 }
 
-.vari_work{
-    display: flex;
-    margin-top: 36px;
+.ourwork wrapper .work pics{
+display: flex;
 }
