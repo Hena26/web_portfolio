@@ -41,12 +41,9 @@ h1.title{
     position: absolute;
 }
 
-.logo{
-    width: 200px;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    background-color: transparent;
+.logo a{
+    font-family: 'Allura', cursive;
+    font-size: 36px;
     color: crimson;
 
 }
@@ -109,3 +106,5 @@ h1.title{
     color: black;
     font-weight: bold;
 }
+
+.img
