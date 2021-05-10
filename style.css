@@ -108,7 +108,7 @@ h1.title{
     color: black;
     font-size: 16px;
     font-weight: bold;
-    justify-self: right;
+    justify-content: right;
 }
 
 .my_pic{
