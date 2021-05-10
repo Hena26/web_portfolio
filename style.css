@@ -126,6 +126,10 @@ h1.title{
 
 /*Our Work*/
 .work{
+    background: black;
+}
+
+.work{
     padding: 6% 10%;
     text-align: center;
 }
