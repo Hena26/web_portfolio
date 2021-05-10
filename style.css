@@ -98,6 +98,10 @@ h1.title{
 
 /* About Us */
 .about{
+    background: black;
+}
+
+.about{
     padding: 6% 10%;
     text-align: center;
 }
