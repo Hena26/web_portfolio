@@ -162,4 +162,9 @@ justify-content: space-between;
     width: 100%;
     display: block;
     height: auto;
+    transition: 0.5s ease;
+}
+
+.ourwork wrapper .work pics :hover{
+    transform: scale(2.0);
 }
