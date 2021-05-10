@@ -111,11 +111,11 @@ h1.title{
     display: flex;
     margin-top: 36px;
     justify-content: space-between;
-    width: 30%;
+    width: 50%;
 }
 
 .my_pic img{
     width: 100%;
-    margin-bottom: 15px;
-    height: 260px;
+    margin-bottom: 300px;
+    height: 3000px;
 }
