@@ -123,3 +123,14 @@ h1.title{
     margin-bottom: 100px;
     height: 300px;
 }
+
+/*Our Work*/
+.work{
+    padding: 6% 10%;
+    text-align: center;
+}
+
+.vari_work{
+    display: flex;
+    margin-top: 36px;
+}
