@@ -185,7 +185,6 @@ section{
 .work .content{
     display: flex;
     justify-content: center;
-    flex-direction: row-reverse;
     margin-top: 40px;
 }
 
