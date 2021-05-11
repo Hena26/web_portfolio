@@ -83,9 +83,34 @@ header{
     transition: 0.5s;
 }
 
-header .logo{
+header .logo a{
     color: crimson;
     font-weight: 700;
     font-size: 2em;
     text-decoration: none;
+    font-family: 'Allura', cursive;
+}
+
+header .navigation{
+    position: relative;
+    display: flex;
+}
+
+header .navigation li{
+    list-style: none;
+    margin-left: 30px;
+    text-transform: uppercase;
+
+}
+
+header .navigation li a{
+    text-decoration: none;
+    color: coral;
+    font-weight: bold;
+    text-decoration-color: grey;
+    transition: color 0.5s;
+}
+
+header .navigation ul :hover{
+    color: whitesmoke;
 }
