@@ -246,7 +246,8 @@ section{
     margin-bottom: 20px;
 }
 
-.contactForm .inputBox .input{
+.contactForm .inputBox .input,
+.contactForm .inputBox .input textarea{
     width: 100%;
     border: 1px solid #555;
     padding: 10px;
@@ -254,4 +255,5 @@ section{
     outline: none;
     font-size: 16px;
     font-weight: 300;
+    resize: none;
 }
