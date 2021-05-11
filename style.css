@@ -303,5 +303,8 @@ section{
         height: 40px;
         background: url(images/menu.png);
         background-size: 30px;
+        background-repeat: no-repeat;
+        background-position: center;
+        cursor: pointer;
     }
 }
