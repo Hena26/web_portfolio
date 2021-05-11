@@ -185,7 +185,7 @@ section{
 .work .content{
     display: flex;
     justify-content: center;
-    flex-direction: row-reverse;
+    flex-direction: inherit;
     flex-basis: auto;
     margin-top: 40px;
 }
