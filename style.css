@@ -83,7 +83,7 @@ header{
     transition: 0.5s;
 }
 
-header .logo a{
+header .Logo a{
     font-family: 'Allura', cursive;
     font-size: 36px;
     color: crimson;
