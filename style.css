@@ -188,3 +188,10 @@ section{
     flex-wrap: wrap;
     margin-top: 40px;
 }
+
+.work .content .box{
+    width: 340px;
+    margin: 20px;
+    border: 15px solid #fff;
+    box-shadow: 0 5px 35px rgba(0,0,0,0.08);
+}
