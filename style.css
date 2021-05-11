@@ -22,7 +22,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(banner_2.jpg);
+    background: url(images/banner_2.jpg);
     background-size: cover;
 }
 
