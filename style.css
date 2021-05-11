@@ -24,8 +24,6 @@ p{
     align-items: center;
     background: url("images/banner_2.jpg") no-repeat top center;;
     background-size: cover;
-    text-align: center;
-    color: beige;
 }
 
 .banner .content h2{
@@ -35,12 +33,12 @@ p{
     font-style: italic;
     font-weight: bold;
     line-height: 36px;
-    align-items: center;
+    text-align: center;
 }
 
 .banner .content h2 span{
     color: crimson;
     font-style: italic;
     font-weight: bold;
-    align-items: center;
+    text-align: center;
 }
