@@ -67,4 +67,5 @@ p{
 
 .btn :hover{
     letter-spacing: 6px;
+    justify-content: center;
 }
