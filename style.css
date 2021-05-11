@@ -130,3 +130,10 @@ header .navigation li a:hover{
 section{
     padding: 100px;
 }
+
+.row{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
