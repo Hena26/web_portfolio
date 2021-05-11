@@ -84,11 +84,9 @@ header{
 }
 
 header .logo a{
-    color: crimson;
-    font-weight: 700;
-    font-size: 2em;
-    text-decoration: none;
     font-family: 'Allura', cursive;
+    font-size: 36px;
+    color: crimson;
 }
 
 header .navigation{
@@ -111,6 +109,6 @@ header .navigation li a{
     transition: color 0.5s;
 }
 
-header .navigation ul :hover{
+header .navigation :hover{
     color: whitesmoke;
 }
