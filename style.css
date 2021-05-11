@@ -299,10 +299,10 @@ section{
     }
     .menuToggle{
         position: relative;
-        width: 30px;
-        height: 30px;
+        width: 15px;
+        height: 15px;
         background: url(images/menu_1.jpg);
-        background-size: 30px;
+        background-size: 15px;
         background-repeat: no-repeat;
         background-position: center;
         cursor: pointer;
