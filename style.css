@@ -145,7 +145,13 @@ section{
 
 .titleText{
     color: #111;
-    font-size: 15px;
+    font-size: 36px;
     text-align:left;
     font-weight: bold;
+}
+
+.titleText span{
+    color: #ff0157;
+    font-weight: 700;
+    font-size: 36px;
 }
