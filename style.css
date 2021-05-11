@@ -137,3 +137,8 @@ section{
     display: flex;
     justify-content: space-between;
 }
+
+.row .col50{
+    position: relative;
+    width: 48%;
+}
