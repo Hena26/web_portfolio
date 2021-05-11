@@ -186,7 +186,7 @@ section{
     display: flex;
     justify-content: center;
     flex-direction: inherit;
-    flex-basis: auto;
+    flex-basis: inherit;
     margin-top: 40px;
 }
 
