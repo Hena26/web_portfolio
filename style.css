@@ -11,160 +11,31 @@
 }
 
 p{
-    margin-bottom: 15px;
-    font-size: 14px;
-    line-height: 20px;
+    font-weight: 300;
     color: crimson;
-}
-
-h1.title{
-    margin-bottom: 20px;
-    color: crimson;
-    font-family: 'Allura', cursive;
-    text-transform: uppercase;
-    font-size: 36px;
-    word-spacing: 25px;
-    letter-spacing: 5px;
-}
-
-.container{
-    position: relative;
-}
-
-/*Navigation Bar*/
-.navbar{
-    width: 100%;
-    height: 66px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    position: absolute;
-}
-
-.logo a{
-    font-family: 'Allura', cursive;
-    font-size: 36px;
-    color: crimson;
-
-}
-
-.navbar .navbar_items ul{
-    display: flex;
-}
-
-.navbar .navbar_items ul li{
-    text-transform: uppercase;
-    margin: 0 10px;
-}
-
-.navbar .navbar_items ul li a{
-    color: coral;
-    font-weight: bold;
-    text-decoration-color: grey;
-    transition: color 0.5s;
-}
-
-.navbar .navbar_items ul :hover{
-    color: whitesmoke;
-}
-
-/* Banner Image*/
-.banner_image{
-    background: url("images/banner_2.jpg") no-repeat top center;
-    background-size: cover;
-    width: 100%;
-    height: 1000px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .banner{
-    text-align: center;
-    color: beige;
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(banner_2.jpg);
+    background-size: cover;
 }
 
-.banner h1{
+.banner .content h2{
+    font-size: 5em;
+    color: white;
     text-transform: uppercase;
     font-style: italic;
+    font-weight: bold;
     line-height: 36px;
-    margin-bottom: 15px;
 }
 
-.banner h1 span{
+.banner .content h2 span{
     color: crimson;
     font-style: italic;
-}
-
-/* About Us */
-.about{
-    background: black;
-}
-
-.about{
-    padding: 6% 10%;
-    text-align: center;
-}
-
-.about p{
-    padding: 0px 30px 20px;
-    font-family: 'Josefin Sans', sans-serif;
-    color: whitesmoke;
-    font-size: 16px;
-    font-weight: bold;
-    justify-content: center;
-}
-
-.my_pic{
-    display: flex;
-    margin-top: 36px;
-    justify-content: space-between;
-    width: 20%;
-}
-
-.my_pic img{
-    width: 100%;
-    margin-bottom: 100px;
-    height: 300px;
-}
-
-/*Our Work*/
-.work{
-    background: black;
-}
-
-.work p{
-    padding: 0px 30px 20px;
-    font-family: 'Josefin Sans', sans-serif;
-    color: whitesmoke;
-    font-size: 16px;
-    font-weight: bold;
-    justify-content: center;
-}
-
-.ourwork wrapper .work{
-display: flex;
-justify-content: space-between;
-}
-
-.ourwork wrapper .work-1 work{
-    margin-bottom: 26px;
-}
-
-.ourwork wrapper .work pics{
-    width: 30%;
-    height: auto;
-    cursor: pointer; 
-    overflow: hidden;
-}
-
-.ourwork wrapper .work pics img{
-    width: 100%;
-    display: block;
-    height: auto;
-    transition: 0.5s ease;
-}
-
-.ourwork wrapper .work pics :hover{
-    transform: scale(2.0);
 }
