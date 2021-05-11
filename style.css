@@ -302,9 +302,12 @@ section{
         width: 15px;
         height: 15px;
         background: url(images/menu_1.jpg);
-        background-size: 50px;
+        background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
         cursor: pointer;
+    }
+    header.sticky .menuToggle{
+        filter: invert(1);
     }
 }
