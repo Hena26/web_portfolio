@@ -171,7 +171,7 @@ section{
     width: 30%;
     height: 50%;
     object-fit: cover;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .title{
