@@ -186,8 +186,7 @@ section{
     display: flex;
     justify-content: center;
     flex-direction: row-reverse;
-    flex-flow: wrap;
-    flex-basis: content;
+    flex-wrap: wrap;
     margin-top: 40px;
 }
 
