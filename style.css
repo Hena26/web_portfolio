@@ -120,9 +120,13 @@ header .navigation li a{
 }
 
 header.sticky .navigation li a{
-    color: #111;
+    color: coral;
 }
 
 header .navigation li a:hover{
     color: whitesmoke;
+}
+
+section{
+    padding: 100px;
 }
