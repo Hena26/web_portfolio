@@ -13,7 +13,7 @@
 }
 
 p{
-    font-weight: 300;
+    font-weight: bold;
     color: crimson;
 }
 
@@ -238,5 +238,20 @@ section{
     font-size: 15px;
     margin-bottom: 20px;
     font-weight: 500;
-    
+}
+
+.contactForm .inputBox{
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.contactForm .inputBox .input{
+    width: 100%;
+    border: 1px solid #555;
+    padding: 10px;
+    color: #111;
+    outline: none;
+    font-size: 16px;
+    font-weight: 300;
 }
