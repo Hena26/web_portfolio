@@ -305,5 +305,7 @@ section{
         align-items: center;
         background: url("images/banner_2.jpg") no-repeat top center;;
         background-size: cover;
+        background-position-x: 375px;
+        background-position-y: 661px;
         }
 }
