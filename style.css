@@ -52,7 +52,7 @@ p{
     font-style: italic;
     font-weight: bolder;
     text-align: center;
-    font-size: 15px;
+    font-size: 25px;
 }
 
 .btn{
@@ -95,7 +95,7 @@ header.sticky{
 
 header .Logo{
     font-family: 'Allura', cursive;
-    font-size: 36px;
+    font-size: 20px;
     color: crimson;
 }
 
