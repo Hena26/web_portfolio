@@ -204,6 +204,7 @@ section{
 
 .work .content .box .imgMe .img{
     display: block;
+    justify-content: center;
 }
 
 .work .content .box .text{
