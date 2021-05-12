@@ -330,6 +330,7 @@ section{
 
     .about .row .col50 .imgMe img{
         padding-top: 0px;
+        margin-right: 0px;
         float: right;
     }
 }
