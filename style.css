@@ -284,6 +284,9 @@ section{
 }
 
 @media only screen and (min-width: 768px) {
+    .row .col50 .imgMe{
+        padding: 20px 0px 0px;
+    }
     .row .col50 .imgMe img{
         display: flex;
         padding-top: 30px;
