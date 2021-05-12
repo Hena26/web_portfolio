@@ -298,7 +298,7 @@ section{
     }
     .banner{
         position: relative;
-        width: 100%;
+        width: 375px;
         height: 900px;
         display: block;
         justify-content: center;
