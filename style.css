@@ -286,7 +286,6 @@ section{
 @media only screen and (min-width: 768px) {
     .work .content{
         display: flex;
-        flex-direction: row-reverse;
         margin-top: 40px;
     }
 
