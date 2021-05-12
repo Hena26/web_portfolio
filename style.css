@@ -144,7 +144,6 @@ section{
 }
 
 .row .col50{
-    position: relative;
     width: 48%;
 }
 
@@ -172,14 +171,14 @@ section{
 
 .title{
     width: 100;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 
 .work .content{
-    display: flex;
+    display: block;
     justify-content: space-between;
     flex-direction: row-reverse;
     flex-wrap: wrap;
