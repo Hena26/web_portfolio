@@ -168,8 +168,8 @@ section{
 .row .col50 .imgMe img{
     top: 0;
     left: 0;
-    width: 30%;
-    height: 75px;
+    width: 300px;
+    height: 300px;
     margin-bottom: 100px;
     justify-content: center;
 }
