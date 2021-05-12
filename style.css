@@ -285,7 +285,10 @@ section{
 
 @media only screen and (min-width: 768px) {
     .work .content{
-        display: flex;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        grid-auto-rows: minmax(100px, auto);
         margin-top: 40px;
     }
 
