@@ -317,6 +317,10 @@ section{
 }
 
 @media only screen and (min-width: 1200px) {
+    .banner{
+        width: 1000px;
+    }
+    
     .about .row .col50 .titleText p{
         padding: 20px 0px 0px;
         width: 50%;
