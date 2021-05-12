@@ -164,6 +164,7 @@ section{
     color: black;
     font-size: 10px;
     text-align: justify;
+    word-wrap: normal;
 }
 
 .row .col50 .imgMe{
