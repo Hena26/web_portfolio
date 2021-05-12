@@ -203,8 +203,6 @@ section{
 }
 
 .work .content .box .imgMe .img{
-    justify-content: left;
-    align-items: flex-start;
     display: block;
 }
 
