@@ -203,6 +203,7 @@ section{
 }
 
 .work .content .box .imgMe .img{
+    justify-content: left;
     display: block;
 }
 
