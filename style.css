@@ -175,6 +175,8 @@ section{
     width: 100px;
     height: 100px;
     justify-content: left;
+    align-items: flex-start;
+    display: block;
 }
 
 .title{
@@ -202,9 +204,9 @@ section{
 }
 
 .work .content .box .imgMe .img{
-
     width: 50%;
     height: 90%;
+    display: block;
 }
 
 .work .content .box .text{
