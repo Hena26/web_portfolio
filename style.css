@@ -180,7 +180,6 @@ section{
 .work .content{
     display: block;
     justify-content: space-between;
-    margin-top: 40px;
 }
 
 .work .content .box{
@@ -195,11 +194,9 @@ section{
 }
 
 .work .content .box .imgMe .img{
-    position: absolute;
-    top: 0;
-    left: 0;
+
     width: 100%;
-    height: 100%;
+    height: 90%;
     object-fit: cover;
 }
 
