@@ -290,6 +290,7 @@ section{
 
     .row .col50 .titleText p{
         padding: 20px 0px 0px;
+        float: left;
     }
 
     .row .col50 .imgMe{
@@ -298,7 +299,7 @@ section{
     .row .col50 .imgMe img{
         display: flex;
         padding-top: 30px;
-        justify-content: right;
+        float: right;
     }
 
     .work .content{
@@ -314,3 +315,4 @@ section{
         display: flexbox;
     }  
 }
+
