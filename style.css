@@ -105,12 +105,12 @@ header.sticky .Logo{
 
 header .navigation{
     position: relative;
-    display: flex;
+    display: block;
 }
 
 header .navigation li{
     list-style: none;
-    margin-left: 30px;
+    margin-left: 20px;
     text-transform: uppercase;
 
 }
