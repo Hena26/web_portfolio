@@ -290,6 +290,7 @@ section{
     .row .col50 .imgMe img{
         display: flex;
         padding-top: 30px;
+        justify-content: right;
     }
 
     .work .content{
