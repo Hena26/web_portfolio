@@ -83,7 +83,7 @@ header{
     z-index: 10000;
     display: inline-block;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: flex-start;
     transition: 0.5s;
 }
 
