@@ -203,7 +203,7 @@ section{
 }
 
 .work .content .box .imgMe .img{
-    justify-content: left;
+    align-content: center;
     display: block;
 }
 
