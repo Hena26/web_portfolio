@@ -20,10 +20,11 @@ p{
 .banner{
     position: relative;
     width: 100%;
-    display: none;
+    display: block;
     justify-content: center;
     align-items: center;
     background: url("images/banner_2.jpg") no-repeat top center;;
+    background: none;
     background-size: cover;
 }
 
