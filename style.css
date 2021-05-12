@@ -95,7 +95,6 @@ header .Logo{
     font-family: 'Allura', cursive;
     font-size: 20px;
     color: crimson;
-    justify-content: left;
 }
 
 header.sticky .Logo{
@@ -111,8 +110,6 @@ header .navigation li{
     list-style: none;
     margin-left: 20px;
     text-transform: uppercase;
-    justify-content: left;
-
 }
 
 header .navigation li a{
