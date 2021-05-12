@@ -284,6 +284,11 @@ section{
 }
 
 @media only screen and (min-width: 768px) {
+    .row .col50 .imgMe img{
+        display: flex;
+        padding-top: 30px;
+    }
+
     .work .content{
         display: flexbox;
     }
