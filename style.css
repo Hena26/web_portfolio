@@ -284,6 +284,14 @@ section{
 }
 
 @media only screen and (min-width: 768px) {
+    .banner{
+        padding-bottom: 30px;
+    }
+
+    .row .col50 .titleText p{
+        padding: 20px 0px 0px;
+    }
+
     .row .col50 .imgMe{
         padding: 20px 0px 0px;
     }
