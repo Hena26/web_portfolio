@@ -318,16 +318,17 @@ section{
 
 @media only screen and (min-width: 1200px) {
     .banner{
-        width: 1000px;
+        width: 1200px;
     }
-    
+
     .about .row .col50 .titleText p{
         padding: 20px 0px 0px;
         width: 50%;
         float: left;
     }
 
-    .row .col50 .imgMe img{
+    .about .row .col50 .imgMe img{
         padding-top: 0px;
+        float: right;
     }
 }
