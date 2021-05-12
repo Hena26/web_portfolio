@@ -105,7 +105,7 @@ header.sticky .Logo{
 
 header .navigation{
     position: relative;
-    display: block;
+    display: flex;
 }
 
 header .navigation li{
