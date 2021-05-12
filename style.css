@@ -284,10 +284,17 @@ section{
 }
 
 @media only screen and (min-width: 768px) {
+    .work .content{
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+        margin-top: 40px;
+    }
+
     .work .content .box .imgMe{
         position: relative;
         width: 100%;
-        height: 30px;
+        height: 100px;
     }
 
     .work .content .box .imgMe .img{
