@@ -79,7 +79,6 @@ header{
     left: 0;
     width: 68%;
     padding: 40px 100px;
-    z-index: 1000;
     display: inline-block;
     justify-content: space-between;
     align-items: flex-start;
@@ -96,6 +95,7 @@ header .Logo{
     font-family: 'Allura', cursive;
     font-size: 20px;
     color: crimson;
+    text-align: center;
 }
 
 header.sticky .Logo{
@@ -111,6 +111,7 @@ header .navigation li{
     list-style: none;
     margin-left: 20px;
     text-transform: uppercase;
+    text-align: left;
 
 }
 
